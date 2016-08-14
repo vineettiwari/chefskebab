@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // Controls the font size.
+    "editor.fontSize": 16,
+
+    // Controls the indentation.
+    "editor.tabSize": 2,
+
+    // Controls the line wrape.
+    "editor.wrappingColumn": 80,
+    "html.format.wrapLineLength": 80
+}
